@@ -84,7 +84,7 @@
 
 <div class="container">
     <section class="intro">
-        <img src="https://github.com/NganNguyen07/web_profile.github.io/commit/3e794166549e829862c677682ae2d52e47bb7869" alt="Ảnh đại diện của tôi">
+        <img src="images/1.png" alt="Ảnh đại diện của tôi">
         <div class="text">
             <h2 >Thông tin</h2>
             <p>
